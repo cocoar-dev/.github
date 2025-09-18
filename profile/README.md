@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="profile/cocoar-logo-light.svg#gh-dark-mode-only" width="200" alt="COCOAR Logo">
-  <img src="profile/cocoar-logo-dark.svg#gh-light-mode-only" width="200" alt="COCOAR Logo">
+  <img src="assets/light-flat.svg#gh-dark-mode-only" width="250" alt="COCOAR Logo">
+  <img src="assets/dark-flat.svg#gh-light-mode-only" width="250" alt="COCOAR Logo">
 </p>
 
 # COCOAR – Code Connected Architecture
