@@ -5,14 +5,14 @@
 
 # COCOAR – Code Connected Architecture
 
-**Architecture-first solutions for .NET and Angular — open source libraries, products, and professional services.**  
+**Architecture-first solutions for .NET and Angular — products, libraries and professional services.**  
 Founded by [Bernhard Windisch](https://github.com/windischb)
 
 ---
 
 ## Our Mission
-We build libraries and tools that help developers create **connected, event-driven, and maintainable architectures**.  
-From backend (.NET, C#, modern data & messaging) to frontend (Angular), we design connected systems that balance clean architecture with pragmatic technology choices.
+We build tools and libraries to help developers create event-driven, maintainable architectures.  
+From backend (.NET, C#, modern data & messaging) to frontend (Angular), we deliver systems that balance clean architecture with pragmatic technology choices.
 
 ---
 
@@ -24,17 +24,18 @@ From backend (.NET, C#, modern data & messaging) to frontend (Angular), we desig
 ---
 
 ## In Progress
-- Reflectensions – reflection utilities made simple  
-- FluentJsonConverter – fluent and type-safe JSON conversions  
-- PortTunneler – lightweight developer proxy/tunneling  
-- Tellify – modular publishing & content platform - *“Because every story deserves a platform.”*  
+- **Tellify** – modular publishing & content platform - *“Because every story deserves a platform.”* 
+- **Reflectensions** – reflection utilities made simple  
+- **FluentJsonConverter** – fluent and type-safe JSON conversions  
+- **PortTunneler** – lightweight developer proxy/tunneling  
+ 
 
 ---
 
-## Learn More
+## Connect with Us
 - 🌐 Website: [cocoar.dev](https://cocoar.dev)  
 - 💻 GitHub: [github.com/cocoar-dev](https://github.com/cocoar-dev)  
 - 📦 NuGet: [nuget.org/profiles/cocoar](https://www.nuget.org/profiles/cocoar-dev)  
-- 💬 LinkedIn: coming soon  
-- 🐦 Twitter/X: coming soon 
+- 💬 LinkedIn: *coming soon*  
+- 🐦 Twitter/X: *coming soon* 
 
